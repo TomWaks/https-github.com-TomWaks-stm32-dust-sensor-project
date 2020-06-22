@@ -1,3 +1,6 @@
+# stm32f4-dust-sensor-project
+Software for microcontroller STM32F4, which is a part of project [Dust Sensor Project](https://github.com/TomWaks/dust-sensor-project)
+
 ## Microcontroller STM32F4
 Microcontroller STM32F4 is one of the most popular microcontroller. 
 <kbd>![Alt text](stm32f4.jpg)</kbd>
